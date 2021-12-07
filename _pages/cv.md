@@ -82,6 +82,8 @@ Funded fellowships and grants
 
 Publications
 ======
+<b>Boldface student names</b> are undergraduate coauthors.
+<u>Underlined student names</u> are graduate student coauthors.
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
