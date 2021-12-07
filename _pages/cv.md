@@ -23,10 +23,13 @@ Academic positions
   * Assistant Professor of Chemistry
   * [William & Mary](https://www.wm.edu/as/chemistry/index.php)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2011-2013
+  * Alexander von Humboldt Research Fellow
+  * RWTH University (Aachen, Germany)
+
+* 2010
+  - Adjunct lecturer
+  - Contra Costa Community College (San Pablo, CA)
 
 Skills
 ======
