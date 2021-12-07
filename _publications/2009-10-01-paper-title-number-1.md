@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Temperature Response of 129Xe Depolarization Transfer and Its Application for Ultrasensitive NMR Detection"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink: /publications/2009-10-01-paper-title-number-1
+excerpt: ""
+date: 2008
+venue: 'Phys. Rev. Lett.'
+paperurl: 'http://dx.doi.org/10.1103/PhysRevLett.100.257603'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Schröder, L.; Meldrum, T.; Smith, M.; Lowery, T. J.; Wemmer, D. E.; Pines, A. Temperature Response of 129Xe Depolarization Transfer and Its Application for Ultrasensitive NMR Detection. Phys. Rev. Lett. 2008, 100, 257603(4). doi:10.1103/PhysRevLett.100.257603
