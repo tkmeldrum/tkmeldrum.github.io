@@ -46,7 +46,7 @@ Funded fellowships and grants
 * 2021
   - United States-Israel Binational Science Foundation
   - *Metals, magnets, and microwaves: Enhancing single-sided NMR signals in materials with DNP*
-	- Joint proposal with Dr. Daphna Shimon, Hebrew University of Jerusalem
+	- Joint proposal with [Dr. Daphna Shimon, Hebrew University of Jerusalem](https://shimongroup.huji.ac.il)
 	- Total two-year funding (Feb 2022–Jan 2024): \$150,000; W&M portion: \$75,000
 
 * 2020
