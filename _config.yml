@@ -83,8 +83,14 @@ author:
   name             : "Tyler Meldrum"
   avatar           : "profile_TKM.png"
   bio              : "Materials, magnets, and sometimes art"
-  location         : "https://goo.gl/maps/jdCeps4LXzFC6MJLA"
-  employer         : "https://www.wm.edu"
+  links:
+    - label: "William & Mary"
+      #icon: "fas fa-fw fa-link"
+      url: "https://www.wm.edu"
+    - label: "W&M Chemistry"
+      url: "https://www.wm.edu/as/chemistry/index.php"
+  location         :
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=yKXJezQAAAAJ"
   email            : "tkmeldrum@wm.edu"
@@ -258,7 +264,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
