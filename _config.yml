@@ -83,13 +83,7 @@ author:
   name             : "Tyler Meldrum"
   avatar           : "profile_TKM.png"
   bio              : "Materials, magnets, and sometimes art"
-  links:
-    - label: "William & Mary"
-      #icon: "fas fa-fw fa-link"
-      url: "https://www.wm.edu"
-    - label: "W&M Chemistry"
-      url: "https://www.wm.edu/as/chemistry/index.php"
-  location         :
+  location         : "Williamsburg, VA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=yKXJezQAAAAJ"
@@ -121,6 +115,12 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links            :
+    - label: "William & Mary"
+      #icon: "fas fa-fw fa-link"
+      url: "https://www.wm.edu"
+    - label: "W&M Chemistry"
+      url: "https://www.wm.edu/as/chemistry/index.php"
 
 
 # Reading Files
@@ -194,6 +194,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   CV:
+    output: true
+    permalink: /:collection/:path/
+  Links:
     output: true
     permalink: /:collection/:path/
 
