@@ -1,5 +1,5 @@
 ---
-title: "Xenon Biosensors for Multi-Purpose Molecular Imaging. World Congress on Medical Physics and Biomedical Engineering"
+title: "Xenon Biosensors for Multi-Purpose Molecular Imaging (World Congress on Medical Physics and Biomedical Engineering)"
 collection: publications
 permalink: /publications/2009IFMBE
 excerpt: ""

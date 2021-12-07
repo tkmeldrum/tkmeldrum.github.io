@@ -1,5 +1,5 @@
 ---
-title: "Temperature-Controlled Molecular Depolarization Gates in Nuclear Magnetic Resonance."
+title: "Temperature-Controlled Molecular Depolarization Gates in Nuclear Magnetic Resonance"
 collection: publications
 permalink: /publications/2008_Angewandte
 excerpt: ""
