@@ -83,11 +83,11 @@ author:
   name             : "Tyler Meldrum"
   avatar           : "profile.png"
   bio              : "Materials, magnets, and sometimes art"
-  location         : "Williamsburg, VA"
-  employer         :
+  location         : "https://goo.gl/maps/jdCeps4LXzFC6MJLA"
+  employer         : "www.wm.edu"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=yKXJezQAAAAJ"
-  email            : "mailto:tkmeldrum@wm.edu"
+  email            : "tkmeldrum@wm.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
