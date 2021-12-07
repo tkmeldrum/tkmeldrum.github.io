@@ -28,14 +28,57 @@ Academic positions
   - Adjunct lecturer
   - Contra Costa Community College (San Pablo, CA)
 
-Skills
+Courses taught
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Physical Chemistry I (CHEM 301: quantum mechanics and spectroscopy)
+  - 2021, 50 students
+* Physical Chemistry II (CHEM 302: thermodynamics, statistical mechanics, and kinetics)
+  - 2017-2020, ~200 students
+* Physical Chemistry Lab
+  - 2013-2021
+* General Chemistry I
+  - 2013-2015, ~400 students
+* Physical/Analytical Chemistry for Life Sciences (CHEM 341)
+  - 2015-2017, 2019
+
+Funded fellowships and grants
+======
+* 2021
+  - United States-Israel Binational Science Foundation
+  - *Metals, magnets, and microwaves: Enhancing single-sided NMR signals in materials with DNP*
+	- Joint proposal with Dr. Daphna Shimon, Hebrew University of Jerusalem
+	- Total two-year funding (Feb 2022–Jan 2024): $150,000; W&M portion: $75,000
+
+* 2020
+  - Small Business Technology Transfer (STTR) Sequential Phase II Grant
+  - *Method for Locally Measuring Strength of a Polymer-Inorganic Interface During Cure and Aging*
+  - Cooperative project between Metna Co. (Lansing, MI), Rutgers University (Newark, NJ), and William & Mary.
+	- Oct 2020–Sept 2022; Total funding: $1,100,000. W&M portion: $165,000
+
+* 2018
+  - Small Business Technology Transfer (STTR) Phase II Grant
+  - *Method for Locally Measuring Strength of a Polymer-Inorganic Interface During Cure and Aging*
+  - Cooperative project between Metna Co. (Lansing, MI), Rutgers University (Newark, NJ), and William & Mary.
+	- Oct 2018–Dec 2020; Total funding: $1,000,000. W&M portion: $150,000
+
+* 2016
+  - Faculty Summer Research Grant (internal funding)
+	- Awarded for Summer 2017
+
+* 2015
+  - Colonial Williamsburg Foundation
+	- Summer stipend for undergraduate research student; focus on analysis of dyed textiles
+	- Summer 2015; $3450
+
+* 2014
+  - Faculty Summer Research Grant (internal funding)
+	- Awarded for Summer 2014
+
+* 2014
+  - American Chemical Society Petroleum Research Fund, Undergraduate New Investigator Proposal:
+  - *Investigating the Development of Intermolecular Networks in Coatings with Single-sided NMR*
+	-	Awarded October 2014; $55,000
+
 
 Publications
 ======
