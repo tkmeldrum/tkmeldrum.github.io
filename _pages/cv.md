@@ -11,15 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Chemistry from [the University of California, Berkeley](http://www.berkeley.edu), 2011
-* B.S. in Biochemistry from [Brigham Young University](https://www.byu.edu), 2006
+* Ph.D. in Chemistry from [the University of California, Berkeley](http://www.berkeley.edu), 2006-2011
+* B.S. in Biochemistry from [Brigham Young University](https://www.byu.edu), 2004-2006
+* [University of Colorado, Boulder](https://www.colorado.edu), 1999-2001
 
-Work experience
+Academic positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-
+  * Associate Professor and...
+* 2013-2020
+  * Assistant Professor of Chemistry
+  * [William & Mary](https://www.wm.edu/as/chemistry/index.php)
 
 * Fall 2015: Research Assistant
   * Github University
