@@ -117,9 +117,10 @@ author:
   wikipedia        :
   links            :
     - label: "William & Mary"
-      #icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://www.wm.edu"
     - label: "W&M Chemistry"
+      icon: ""
       url: "https://www.wm.edu/as/chemistry/index.php"
 
 
