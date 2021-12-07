@@ -182,24 +182,10 @@ kramdown:
 
 # Collections
 collections:
-  group:
+  publications:
     output: true
     permalink: /:collection/:path/
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
-  outreach:
-    output: true
-    permalink: /:collection/:path/
-  CV:
-    output: true
-    permalink: /:collection/:path/
-  Links:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults
