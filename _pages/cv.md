@@ -18,15 +18,12 @@ Education
 Academic positions
 ======
 * 2020-
-  * Associate Professor and...
+  * Associate Professor of Chemistry at [William & Mary](https://www.wm.edu/as/chemistry/index.php)
 * 2013-2020
-  * Assistant Professor of Chemistry
-  * [William & Mary](https://www.wm.edu/as/chemistry/index.php)
-
+  * Assistant Professor of Chemistry at [William & Mary](https://www.wm.edu/as/chemistry/index.php)
 * 2011-2013
   * Alexander von Humboldt Research Fellow
   * RWTH University (Aachen, Germany)
-
 * 2010
   - Adjunct lecturer
   - Contra Costa Community College (San Pablo, CA)
