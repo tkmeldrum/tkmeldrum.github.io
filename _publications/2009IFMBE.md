@@ -5,6 +5,7 @@ permalink: /publications/2009IFMBE
 excerpt: ""
 date: 2009-09-07
 venue: 'IFMBE Proc.'
+paperurl: 'https://dx.doi.org/10.1007/978-3-642-03895-2_51'
 citation: 'Schröder, L.; Meldrum, T.; Smith, M.; Schilling, F.; Denger, P.; Zapf, S.; Wemmer, D. E.; Pines, A. September 7–12, 2009, Munich, Germany. <i>IFMBE Proc.</i> <b>2009,</b> <i>25/13,</i> 176–179.'
 pubind: "3"
 ---
