@@ -1,7 +1,9 @@
 ---
-title: "Grant 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Method for Locally Measuring Strength of a Polymer-Inorganic Interface During Cure and Aging"
+excerpt: ""
 collection: grants
+date: 2020-10-01
 ---
 
-This is an item in your grants portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Small Business Technology Transfer (STTR) Sequential Phase II Grant. Cooperative project between Metna Co. (Lansing, MI), Rutgers University (Newark, NJ), and William & Mary.
+Oct 2020–Sept 2022; Total funding: $1,100,000. W&M portion: $165,000
