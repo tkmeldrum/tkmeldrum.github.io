@@ -3,6 +3,7 @@ title: "Method for Locally Measuring Strength of a Polymer-Inorganic Interface D
 excerpt: ""
 collection: grants
 date: 2020-10-01
+pubind: 6
 ---
 
 Small Business Technology Transfer (STTR) Sequential Phase II Grant. Cooperative project between Metna Co. (Lansing, MI), Rutgers University (Newark, NJ), and William & Mary.

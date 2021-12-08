@@ -1,7 +1,7 @@
 ---
 title: "Xenon-Based Molecular Sensors in Lipid Suspensions"
 collection: publications
-permalink: /publications/2010Lipids
+link: /publications/2010Lipids
 excerpt: ""
 date: 2010-08-01
 venue: 'J. Magn. Reson.'
