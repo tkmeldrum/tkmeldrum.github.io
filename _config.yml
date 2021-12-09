@@ -234,15 +234,6 @@ defaults:
       author_profile: true
       share: true
       comments: false
-  # _funding
-  - scope:
-      path: ""
-      type: funding
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: false
   # _portfolio
   - scope:
       path: ""
