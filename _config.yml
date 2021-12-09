@@ -191,7 +191,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  grants:
+  funding:
     output: true
     permalink: /:collection/:path/
 

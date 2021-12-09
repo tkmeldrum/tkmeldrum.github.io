@@ -79,9 +79,9 @@ Funded fellowships and grants
   - *Investigating the Development of Intermolecular Networks in Coatings with Single-sided NMR*
 	-	Awarded October 2014; \\$55,000
 
-Grants
+Funding
 ======
-<ul>{% for post in site.grants reversed %}
+<ul>{% for post in site.funding reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
