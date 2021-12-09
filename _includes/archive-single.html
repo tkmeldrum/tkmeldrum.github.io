@@ -35,9 +35,9 @@
           {{ post.pubind }}. {{ title }}
           <!-- {{ post.pubind }}. <a href="{{ base_path }}{{ post.paperurl }}" rel="permalink">{{ title }}</a> -->
         {% endif %}
-      {% elsif post.collection == 'funding' %}
-        {% if post.fundingurl %}
-          <a href="{{ post.fundingurl }}">{{ title }}</a>
+      {% elsif post.collection == 'grants' %}
+        {% if post.granturl %}
+          <a href="{{ post.granturl }}">{{ title }}</a>
         {% else %}
           {{ title }}
         {% endif %}
@@ -57,8 +57,13 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <!-- <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
+<<<<<<< HEAD
         {% if post.collection == 'funding' %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Active" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y" }}</time> to <time datetime="{{ post.enddate | default: "1900-01-01" | date_to_xmlschema }}">{{ post.enddate | default: "1900-01-01" | date: "%Y" }}</time></p>
+=======
+        {% if post.collection == 'grants' %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Active" }}</strong> <time datetime="{{ post.startdate | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y" }}</time> to <time datetime="{{ post.enddate | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y" }}</time></p>
+>>>>>>> parent of 3e8a88e (grants to funding)
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
