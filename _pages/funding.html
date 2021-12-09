@@ -1,0 +1,20 @@
+---
+layout: archive
+title: "Funding"
+permalink: /funding/
+author_profile: true
+---
+
+{% include base_path %}
+
+Test here.
+
+{% if author.googlescholar %}
+  You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+{% endif %}
+
+
+{% for post in site.funding %}
+  Second test in loop.
+  {% include archive-single.html %}
+{% endfor %}

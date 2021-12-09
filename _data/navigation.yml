@@ -9,8 +9,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Teaching"
-  #   url: /teaching/
+  - title: "Funding"
+    url: /funding/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Outreach"
     url: /outreach/

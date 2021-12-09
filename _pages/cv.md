@@ -82,7 +82,7 @@ Funded fellowships and grants
 <!-- Grants
 ======
 <ul>{% for post in site.grants reversed %}
-  {% include archive-single-cv.html %}
+ {% include archive-single-cv.html %}
 {% endfor %}</ul> -->
 
 Publications
@@ -102,9 +102,9 @@ Talks
 
 Teaching
 ======
-  <!-- <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
 
 Service and leadership
 ======
