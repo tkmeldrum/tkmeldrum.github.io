@@ -2,7 +2,8 @@
 layout: archive
 title: "Tyler Meldrum, CV"
 permalink: /cv/
-author_profile: false
+author: tyler
+author_profile: true
 redirect_from:
   - /resume
 ---

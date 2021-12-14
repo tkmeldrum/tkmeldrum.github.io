@@ -2,7 +2,8 @@
 layout: archive
 title: "Meldrumlab Group"
 permalink: /group/
-author_profile: false
+author: meldrumlab
+author_profile: true
 ---
 
 {% include base_path %}

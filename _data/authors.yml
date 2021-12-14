@@ -1,18 +1,48 @@
 # Authors
 
-Name Name:
-  name        : "Tyler Meldrum"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+tyler:
+  name             : "Tyler Meldrum"
+  avatar           : "profile_TKM.png"
+  bio              : "Materials, art as materials, and magnets as art"
+  location         : "Williamsburg, VA"
+  maplink          : "https://goo.gl/maps/FeSgQMWX6wRGQxw56"
+  employer         :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=yKXJezQAAAAJ"
+  email            : "tkmeldrum@wm.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "tkmeldrum"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "https://orcid.org/0000-0002-5954-0795"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "tkmeldrum"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+meldrumlab:
+  name        : "Meldrumlab"
+  email       : "tkmeldrum@wm.edu"
+  bio         : "Materials, art as materials, and magnets as art"
+  avatar      : "meldrumlab_logo.png"
+  github      : "tkmeldrum"
+  location    : "Williamsburg, VA"
+  maplink     : "https://goo.gl/maps/FeSgQMWX6wRGQxw56"

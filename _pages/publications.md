@@ -2,6 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+author: meldrumlab
 author_profile: true
 ---
 
