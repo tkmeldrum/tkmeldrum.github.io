@@ -25,22 +25,18 @@ feature_row1:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: foo-bar-identity.jpg
+  - image_path: greenGold.jpg
     alt: "placeholder image 2"
     title: "Cultural Heritage"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    excerpt: 'Work on objects of cultural heritage from a materials perspective'
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 
 feature_row3:
   - image_path: foo-bar-identity.jpg
     alt: "placeholder image 2"
     title: "Methods"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    excerpt: 'Software and hardware methods for improved single-sided NMR'
     url: "/research/methods"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 {% include base_path %}
