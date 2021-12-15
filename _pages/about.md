@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: colorfulflasks.jpg
+  overlay_color: "#708090"
+  overlay_filter: "0.1"
+  overlay_image: meldrumlab_logo_landscape.png
   caption:
   excerpt: ""
 

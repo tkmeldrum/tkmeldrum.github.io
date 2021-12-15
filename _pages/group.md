@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Meldrumlab Group"
+title: "Meldrumlab People"
 permalink: /group/
 author: meldrumlab
 author_profile: true
@@ -8,8 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
-
-## Our people
+## Group members
+{% include_relative current_group_members.md %}
 
 [Group alumni](/group/alumni)
 

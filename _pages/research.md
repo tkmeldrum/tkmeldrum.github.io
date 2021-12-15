@@ -28,14 +28,14 @@ feature_row2:
   - image_path: greenGold.jpg
     alt: "Green and gold paint swatches"
     title: "Cultural Heritage"
-    excerpt: 'Work on objects of cultural heritage from a materials perspective'
+    excerpt: 'Understanding objects of cultural heritage from a materials perspective'
     url: "/research/heritage"
 
 feature_row3:
   - image_path: foo-bar-identity.jpg
     alt: "placeholder image 2"
     title: "Methods"
-    excerpt: 'Software and hardware methods that improve single-sided NMR'
+    excerpt: 'Software and hardware method developments that improve single-sided NMR'
     url: "/research/methods"
 ---
 
