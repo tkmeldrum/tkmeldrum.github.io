@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Tyler is keenly aware of the importance of exposure to science at an early age. His wife, Sara, is a youth service librarian at the [Williamsburg Regional Library;](https://www.wrl.org) together, they design and present programs to help children understand science and, more importantly, get excited about it. Below are some of the programs that they have done together.
+Tyler is keenly aware of the importance of exposure to science at an early age. Working as Professor Tyler, he designs programs that he presents at the [Williamsburg Regional Library;](https://www.wrl.org) these programs help children understand science and, more importantly, get excited about it. Some of his programs include:
 
 ## Light and Color
 *first presented 8 April 2015*

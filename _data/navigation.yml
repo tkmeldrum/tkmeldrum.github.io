@@ -6,6 +6,9 @@ main:
   - title: "Group"
     url: /group/
 
+  - title: "News"
+    url: /news/
+
   - title: "Publications"
     url: /publications/
 
@@ -24,6 +27,6 @@ main:
 
   - title: "About Tyler"
     url: /PI/
-    
-  - title: "Links"
-    url: /links/
+
+  # - title: "Useful"
+  #   url: /links/
