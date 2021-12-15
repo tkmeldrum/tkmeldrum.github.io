@@ -10,10 +10,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: foo-bar-identity.jpg
   caption:
-  excerpt: ""
-
-intro:
-  - excerpt: 'Magnetic resonance, on materials, with students'
+  excerpt: "Student-oriented research with single-sided NMR"
 
 feature_row1:
   - image_path: foo-bar-identity.jpg
@@ -21,8 +18,6 @@ feature_row1:
     title: "Materials"
     excerpt: 'Investigating physico-chemical properties of polymers and other materials'
     url: "/research/materials"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 
 feature_row2:
   - image_path: greenGold.jpg

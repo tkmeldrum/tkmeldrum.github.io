@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Tyler is keenly aware of the importance of exposure to science at an early age. Working as Professor Tyler, he designs programs that he presents at the [Williamsburg Regional Library;](https://www.wrl.org) these programs help children understand science and, more importantly, get excited about it. Some of his programs include:
+Tyler values exposure to science at an early age. As *Professor Tyler,* he designs programs that he presents at the [Williamsburg Regional Library;](https://www.wrl.org) these programs help children understand science and, more importantly, get excited about it. Some of his programs include:
 
 ## Light and Color
 *April 2015*

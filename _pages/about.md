@@ -1,24 +1,26 @@
 ---
-layout: splash
+layout: archive
 permalink: /
 title: "Meldrumlab Research Group at William & Mary"
 author: meldrumlab
-author_profile: false
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
 
 header:
-  overlay_color: "#708090"
-  overlay_filter: "0.1"
+  overlay_color: "#FFFFFF"
+  overlay_filter: "0.65"
   overlay_image: meldrumlab_logo_landscape.png
   caption:
   excerpt: ""
+---
 
-intro:
-  - excerpt: 'Magnetic resonance, on materials, with students'
+{% include base_path %}
 
-feature_row:
+## Magnetic resonance, on materials, with students
+
+<!-- feature_row:
   - image_path: foo-bar-identity.jpg
     alt: "placeholder image 1"
     title: "Our research"
@@ -33,8 +35,8 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    type: right
----
+    type: right -->
+
 <!-- - image_path: foo-bar-identity.jpg
   title: "Methods"
   excerpt: "This is some sample content that goes here with **Markdown** formatting." -->
@@ -65,11 +67,6 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary" -->
-
-
-{% include base_path %}
-
-{% include feature_row id="intro" type="center" %}
 
 <!-- {% include feature_row %} -->
 

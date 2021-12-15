@@ -10,8 +10,7 @@ author_profile: true
 
 ## Group members
 {% include_relative current_group_members.md %}
-
-[Group alumni](/group/alumni)
+- [Group alumni](/group/alumni)
 
 ## Collaborators
 We are fortunate to work on interdisciplinary projects with fantastic collaborators. Here are a few of our science friends:
