@@ -38,7 +38,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Methods"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    url: "/research/methods"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

@@ -189,7 +189,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  talks:
+  news:
     output: true
     permalink: /:collection/:path/
   teaching:
@@ -247,7 +247,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: news
     values:
       layout: single
       author_profile: true
