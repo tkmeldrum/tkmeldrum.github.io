@@ -2,6 +2,7 @@
 layout: archive
 title: "Outreach"
 permalink: /outreach/
+author: proftyler
 author_profile: true
 ---
 

@@ -38,6 +38,45 @@ tyler:
   youtube          :
   wikipedia        :
 
+proftyler:
+  name             : "Professor Tyler"
+  avatar           : "proftyler_logo.png"
+  bio              : "Materials, art as materials, and magnets as art"
+  location         : "Williamsburg, VA"
+  maplink          : "https://goo.gl/maps/FeSgQMWX6wRGQxw56"
+  employer         :
+  pubmed           :
+  googlescholar    :
+  email            : "tkmeldrum@wm.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
 meldrumlab:
   name        : ""
   email       : "tkmeldrum@wm.edu"
