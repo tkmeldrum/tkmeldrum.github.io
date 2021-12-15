@@ -22,7 +22,7 @@ tyler:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : "https://profiles.impactstory.org/u/0000-0002-5954-0795"
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-5954-0795"
@@ -42,7 +42,7 @@ tyler:
 proftyler:
   name             : "Professor Tyler"
   avatar           : "proftyler_logo.png"
-  bio              : "Materials, art as materials, and magnets as art"
+  bio              : "Science/education for kids+"
   location         : "Williamsburg, VA"
   maplink          : "https://goo.gl/maps/FeSgQMWX6wRGQxw56"
   employer         :
