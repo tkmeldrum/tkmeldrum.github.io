@@ -2,6 +2,7 @@
 layout: archive
 title: "Courses taught"
 permalink: /teaching/
+author: tyler
 author_profile: true
 ---
 
