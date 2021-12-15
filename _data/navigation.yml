@@ -28,5 +28,8 @@ main:
   - title: "About Tyler"
     url: /PI/
 
+  - title: "Resources"
+    url: /resources/
+
   # - title: "Useful"
   #   url: /links/
