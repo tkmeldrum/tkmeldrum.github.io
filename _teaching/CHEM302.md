@@ -4,7 +4,7 @@ collection: teaching
 courseID: "CHEM 302"
 permalink: /teaching/CHEM302
 years: "2017–2020"
-date: 2014-01-01
+date: 2014-01-03
 ---
 
 *Course Description:*

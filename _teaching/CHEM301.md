@@ -4,7 +4,7 @@ collection: teaching
 courseID: "CHEM 301"
 permalink: /teaching/CHEM301
 years: "2021"
-date: 2014-01-02
+date: 2014-01-04
 ---
 
 *Course Description:*
