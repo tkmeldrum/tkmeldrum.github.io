@@ -19,23 +19,23 @@ feature_row1:
   - image_path: foo-bar-identity.jpg
     alt: "placeholder image 2"
     title: "Materials"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    excerpt: 'Investigating physico-chemical properties of polymers and other materials'
+    url: "/research/materials"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_row2:
   - image_path: greenGold.jpg
-    alt: "placeholder image 2"
+    alt: "Green and gold paint swatches"
     title: "Cultural Heritage"
     excerpt: 'Work on objects of cultural heritage from a materials perspective'
-    url: "#test-link"
+    url: "/research/heritage"
 
 feature_row3:
   - image_path: foo-bar-identity.jpg
     alt: "placeholder image 2"
     title: "Methods"
-    excerpt: 'Software and hardware methods for improved single-sided NMR'
+    excerpt: 'Software and hardware methods that improve single-sided NMR'
     url: "/research/methods"
 ---
 
@@ -45,4 +45,4 @@ feature_row3:
 
 {% include feature_row id="feature_row2" type="right" %}
 
-{% include feature_row id="feature_row3" type="center" %}
+{% include feature_row id="feature_row3" type="left" %}
