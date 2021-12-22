@@ -60,6 +60,9 @@
           {% else %}
             <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong> <i><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y" }}</time></i></p>
           {% endif %}
+          <!-- {% if post.fundinglogo %}
+            <img src="{{ post.fundinglogo }}" width="15%">
+          {% endif %} -->
         {% elsif post.date %}
           <p class="page__date"> <i><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></i></p>
         {% endif %}
