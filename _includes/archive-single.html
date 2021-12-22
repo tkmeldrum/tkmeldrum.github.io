@@ -29,13 +29,13 @@
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.collection == 'publications' %}
         {% if post.paperurl %}
-          {{ post.pubind }}. <a href="{{ post.paperurl }}" rel="permalink" target="_blank">{{ title }}</a>
+          {{ post.pubind }}. <a href="{{ post.paperurl }}" rel="permalink">{{ title }}</a>
         {% else %}
           {{ post.pubind }}. {{ title }}
         {% endif %}
       {% elsif post.collection == 'funding' %}
         {% if post.fundingurl %}
-          <a href="{{ post.fundingurl }}" rel="permalink" target="_blank">{{ title }}</a>
+          <a href="{{ post.fundingurl }}" rel="permalink">{{ title }}</a>
         {% else %}
           {{ title }}
         {% endif %}
@@ -74,7 +74,7 @@
     {% endif %}
 
     <!-- {% if post.citation and post.paperurl %}
-      <p>{{ post.citation }} <a href="{{ post.paperurl }}" target="_blank">{{ post.paperurl }}</a></p>
+      <p>{{ post.citation }} <a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
     {% elsif post.citation %}
       <p>{{ post.citation }} </p>
     {% elsif post.paperurl %}
