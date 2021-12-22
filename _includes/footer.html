@@ -1,7 +1,10 @@
 {% include base_path %}
 
 <div class="page__footer-follow">
-  <ul class="social-icons">
+    <ul class="social-icons">
+      <li><a href="https://www.wm.edu/" target="_blank"><img alt="William & Mary logo" src="/images/wm_logo.png"  width="250"></a></li>
+      <li><a href="https://www.wm.edu/as/chemistry/index.php" target="_blank"><i class="fas fa-flask" aria-hidden="true"></i>Chemistry at William & Mary</a></li>
+  <!-- <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
@@ -18,6 +21,7 @@
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+  </ul> -->
   </ul>
 </div>
 
