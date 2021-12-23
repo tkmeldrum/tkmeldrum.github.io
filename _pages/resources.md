@@ -8,10 +8,10 @@ author_profile: true
 
 {% include base_path %}
 
-LaTeX code used to generate the equation sheets for physical chemistry.
+Coming soon!
 
-Link to Meldrumlab SOPs (group only)
+<!-- LaTeX code used to generate the equation sheets for physical chemistry. -->
 
-Code for analysis
+<!-- Link to Meldrumlab SOPs (group only) -->
 
-T
+<!-- Code for analysis -->
