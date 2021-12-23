@@ -26,6 +26,10 @@
       </div>
     {% endif %}
 
+    {% if post.image %}
+      <img class="archive__item-image" src="{{ post.image }}" alt="{{ post.alttext }}">
+    {% endif %}
+
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.collection == 'publications' %}
         {% if post.paperurl %}

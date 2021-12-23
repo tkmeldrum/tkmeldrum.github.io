@@ -27,10 +27,14 @@
   }
 }
 
-.archive__image {
+.archive__item-image {
   float: left;
   margin: 0 15px 0 0;
+  max-width: 30%;
+  max-height: 100px;
+  height: auto;
 }
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
