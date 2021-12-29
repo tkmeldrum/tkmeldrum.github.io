@@ -30,7 +30,7 @@
       <img class="archive__item-image" src="{{ post.image }}" alt="{{ post.alttext }}">
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <h3 class="archive__item-title" itemprop="headline">
       {% if post.collection == 'publications' %}
         {% if post.paperurl %}
           {{ post.pubind }}. <a href="{{ post.paperurl }}" rel="permalink">{{ title }}</a>
@@ -48,7 +48,7 @@
       {% elsif post.collection == 'news' %}
           {{ title }}
       {% endif %}
-    </h2>
+    </h3>
 
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
