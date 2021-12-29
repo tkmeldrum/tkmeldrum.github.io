@@ -1,0 +1,59 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+      <h2 class="archive__item-title" itemprop="headline">
+        {{ post.name }} ({{ post.degreedate }})
+      </h2>
+
+      {% if post.image %}
+          <img class="group__group-image" src="{{ post.image }}" alt="{{ post.name }}">
+      {% endif %}
+
+      <div class="group__group-excerpt">
+        <p>From {{ post.hometown }}</p>
+
+        {% if post.coffee %}
+          <p>Coffee order: {{ post.coffee }}</p>
+        {% elsif post.icecream %}
+          <p>Favorite ice cream: {{ post.icecream }}</p>
+        {% endif %}
+
+        {% if post.charater %}
+          <p>Most relatable TV character: {{ post.character }}</p>
+        {% elsif post.spiritanimal %}
+          <p>Spirit animal: {{ post.spiritanimal }}</p>
+        {% endif %}
+
+        <p>Dream job: {{ post.job }}</p>
+        <p>Best part of working in the Meldrumlab: {{ post.bestpart }}</p>
+        <p>Current projects: {{ post.rightnow }}</p>
+      </div>
+
+
+  </article>
+</div>

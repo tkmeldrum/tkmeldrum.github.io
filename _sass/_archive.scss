@@ -92,6 +92,51 @@
   }
 }
 
+/* ==========================================================================
+   GROUP
+   ========================================================================== */
+ .group {
+   margin-bottom: 5em;
+
+   @include breakpoint($medium) {
+     @include span(12 of 12);
+   }
+
+   @include breakpoint($large) {
+     @include span(10 of 12 last);
+     @include prefix(0.5 of 12);
+   }
+
+   a {
+     text-decoration: underline;
+
+     &:hover {
+       text-decoration: underline;
+
+       img {
+         box-shadow: 0 0 10px rgba(#000, 0.25);
+       }
+     }
+   }
+ }
+
+.group__group-image {
+  float: left;
+  margin: 15px;
+  max-width: 25%;
+  max-height: 200px;
+  height: auto;
+}
+
+.group__group-excerpt {
+  margin-top: 0;
+  margin-bottom: 8em;
+  font-size: $type-size-7;
+
+  & + p {
+    text-indent: 0;
+  }
+}
 
 /*
    List view

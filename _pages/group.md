@@ -8,9 +8,12 @@ author_profile: true
 
 {% include base_path %}
 
-## Group members
-{% include_relative current_group_members.md %}
-- [Group alumni](/group/alumni)
+{% for post in site.group %}
+  {% include group-single.html %}
+{% endfor %}
+
+
+## [Group alumni](/pages/alumni)
 
 ## Collaborators
 We are fortunate to work on interdisciplinary projects with fantastic collaborators. Here are a few of our science friends:

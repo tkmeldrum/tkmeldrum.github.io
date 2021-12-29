@@ -195,6 +195,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  group:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
