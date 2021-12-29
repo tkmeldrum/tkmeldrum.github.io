@@ -52,7 +52,8 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
   font-family: $sans-serif-narrow;
 
   a + a {
@@ -64,7 +65,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 0em;
+    margin-top: 0.5em;
     border-bottom: none;
   }
 }
