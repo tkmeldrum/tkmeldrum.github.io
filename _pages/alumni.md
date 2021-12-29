@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Meldrumlab Alumni"
-permalink: /group/alumni
+permalink: /pages/alumni
 author: meldrumlab
 author_profile: true
 ---
