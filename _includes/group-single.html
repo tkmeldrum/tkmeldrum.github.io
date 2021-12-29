@@ -26,9 +26,13 @@
       </div>
     {% endif %}
 
-      <h2 class="archive__item-title" itemprop="headline">
-        {{ post.name }} ({{ post.degreedate }})
+      <h2 class="group__item-title">
+        {{ post.name }}
       </h2>
+
+      <h3 class="group__item-title">
+        {{ post.degreedate }}
+      </h3>
 
       {% if post.image %}
           <img class="group__group-image" src="{{ post.image }}" alt="{{ post.name }}">

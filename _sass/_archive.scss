@@ -96,7 +96,7 @@
    GROUP
    ========================================================================== */
  .group {
-   margin-bottom: 5em;
+   margin-bottom: 0em;
 
    @include breakpoint($medium) {
      @include span(12 of 12);
@@ -120,11 +120,17 @@
    }
  }
 
+
+ .group__item-title {
+   margin-bottom: 0em;
+   font-family: $sans-serif-narrow;
+ }
+
 .group__group-image {
   float: left;
-  margin: 15px;
-  max-width: 25%;
-  max-height: 200px;
+  margin: 2px 15px 50px 5px;
+  max-width: 35%;
+  max-height: 250px;
   height: auto;
 }
 
