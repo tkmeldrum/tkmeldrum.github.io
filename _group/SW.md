@@ -1,7 +1,7 @@
 ---
 name: "Savannah Wood"
 collection: group
-degreedate: "Kinesiology and Health Sciences major, Chemistry minor, 2023"
+degreedate: "Kinesiology and Health Sciences BS (Chemistry minor), 2024"
 image: "/group/SW.jpg"
 hometown: "Powhatan, Virginia"
 icecream: "Anything chocolate 😃"

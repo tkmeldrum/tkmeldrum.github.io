@@ -57,9 +57,17 @@
       <p>Spirit animal: {{ post.spiritanimal }}</p>
     {% endif %}
 
-    <p>Dream job: {{ post.job }}</p>
-    <p>Best part of working in the Meldrumlab: {{ post.bestpart }}</p>
-    <p>Current projects: {{ post.rightnow }}</p>
+    {% if post.job %}
+      <p>Dream job: {{ post.job }}</p>
+    {% endif %}
+
+    {% if post.bestpart %}
+      <p>Best part of working in the Meldrumlab: {{ post.bestpart }}</p>
+    {% endif %}
+
+    {% if post.rightnow %}
+      <p>Current projects: {{ post.rightnow }}</p>
+    {% endif %}
   </div>
 
 

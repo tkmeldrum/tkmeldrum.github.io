@@ -1,7 +1,7 @@
 ---
 name: "Sam Rubin"
 collection: group
-degreedate: "Chemical Physics BS, 2023"
+degreedate: "Chemical Physics BS, 2024"
 image: "/group/SJR.jpg"
 hometown: "Baltimore, Maryland"
 icecream: "Coffee"
