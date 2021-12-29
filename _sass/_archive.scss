@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 2em;
+  margin-bottom: 4em;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -25,6 +25,10 @@
       }
     }
   }
+}
+
+.archive__item {
+  margin-bottom: 2em;
 }
 
 .archive__item-image {
@@ -60,7 +64,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0em;
     border-bottom: none;
   }
 }
@@ -92,11 +96,17 @@
   }
 }
 
+.archive__item:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /* ==========================================================================
    GROUP
    ========================================================================== */
  .group {
-   margin-bottom: 0em;
+   margin-bottom: 2em;
 
    @include breakpoint($medium) {
      @include span(12 of 12);
@@ -106,43 +116,41 @@
      @include span(10 of 12 last);
      @include prefix(0.5 of 12);
    }
-
-   a {
-     text-decoration: underline;
-
-     &:hover {
-       text-decoration: underline;
-
-       img {
-         box-shadow: 0 0 10px rgba(#000, 0.25);
-       }
-     }
-   }
  }
 
+.group__item {
+  margin-bottom: 2em;
+}
 
- .group__item-title {
-   margin-bottom: 0em;
-   font-family: $sans-serif-narrow;
- }
+.group__item:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
-.group__group-image {
+.group__item-title {
+ margin-bottom: 0em;
+ font-family: $sans-serif-narrow;
+}
+
+.group__item-image {
   float: left;
-  margin: 2px 15px 50px 5px;
+  margin: 5px 15px 15px 5px;
   max-width: 35%;
   max-height: 250px;
   height: auto;
 }
 
-.group__group-excerpt {
+.group__item-excerpt {
   margin-top: 0;
-  margin-bottom: 8em;
-  font-size: $type-size-7;
+  margin-bottom: 2em;
+  font-size: $type-size-8;
 
   & + p {
     text-indent: 0;
   }
 }
+
 
 /*
    List view

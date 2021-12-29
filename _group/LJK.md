@@ -1,6 +1,7 @@
 ---
 name: "Lyndi Kiple"
 collection: group
+personalurl: "https://www.sites.google.com/site/chemconservator"
 degreedate: "MS, 2023"
 image: "/group/LJK.jpg"
 hometown: "Sioux City, Iowa"

@@ -26,7 +26,7 @@ feature_row:
   - image_path: isometric_MOUSE.png
     alt: "Isometric schematic of an NMR-MOUSE"
     title: "Methods"
-    excerpt: 'Software and hardware method developments that improve single-sided NMR'
+    excerpt: 'Software and hardware method developments to improve single-sided NMR'
     url: "/research/methods"
 ---
 

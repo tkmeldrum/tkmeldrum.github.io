@@ -12,52 +12,56 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
+<div class="group__item">
+<!-- <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  {% if include.type == "grid" and teaser %}
+    <div class="archive__item-teaser">
+      <img src=
+        {% if teaser contains "://" %}
+          "{{ teaser }}"
+        {% else %}
+          "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="">
+    </div>
+  {% endif %} -->
+
+  {% if post.image %}
+      <img class="group__item-image" src="{{ post.image }}" alt="{{ post.name }}">
+  {% endif %}
+
+  <h2 class="group__item-title">
+    {% if post.personalurl %}
+      <a href="{{ post.personalurl }}" rel="permalink">{{ post.name }}</a>
+    {% else %}
+      {{ post.name }}
+    {% endif %}
+  </h2>
+
+  <h3 class="group__item-title">
+    {{ post.degreedate }}
+  </h3>
+
+  <div class="group__item-excerpt">
+    <p><i>{{ post.hometown }}</i></p>
+
+    {% if post.coffee %}
+      <p>Coffee order: {{ post.coffee }}</p>
+    {% elsif post.icecream %}
+      <p>Favorite ice cream: {{ post.icecream }}</p>
     {% endif %}
 
-      <h2 class="group__item-title">
-        {{ post.name }}
-      </h2>
+    {% if post.charater %}
+      <p>Most relatable TV character: {{ post.character }}</p>
+    {% elsif post.spiritanimal %}
+      <p>Spirit animal: {{ post.spiritanimal }}</p>
+    {% endif %}
 
-      <h3 class="group__item-title">
-        {{ post.degreedate }}
-      </h3>
-
-      {% if post.image %}
-          <img class="group__group-image" src="{{ post.image }}" alt="{{ post.name }}">
-      {% endif %}
-
-      <div class="group__group-excerpt">
-        <p>From {{ post.hometown }}</p>
-
-        {% if post.coffee %}
-          <p>Coffee order: {{ post.coffee }}</p>
-        {% elsif post.icecream %}
-          <p>Favorite ice cream: {{ post.icecream }}</p>
-        {% endif %}
-
-        {% if post.charater %}
-          <p>Most relatable TV character: {{ post.character }}</p>
-        {% elsif post.spiritanimal %}
-          <p>Spirit animal: {{ post.spiritanimal }}</p>
-        {% endif %}
-
-        <p>Dream job: {{ post.job }}</p>
-        <p>Best part of working in the Meldrumlab: {{ post.bestpart }}</p>
-        <p>Current projects: {{ post.rightnow }}</p>
-      </div>
+    <p>Dream job: {{ post.job }}</p>
+    <p>Best part of working in the Meldrumlab: {{ post.bestpart }}</p>
+    <p>Current projects: {{ post.rightnow }}</p>
+  </div>
 
 
-  </article>
+<!-- </article> -->
 </div>
