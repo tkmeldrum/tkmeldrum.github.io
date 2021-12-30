@@ -62,11 +62,11 @@
     {% if post.collection == 'teaching' %}
       {% if post.permalink %}
         <div class="archive__item-excerpt">
-          <i>{{ post.years }},</i> {{ post.courseID }}
+          <b>{{ post.courseID }},</b> <i>{{ post.years }}</i>
         </div>
       {% else %}
         <div class="archive__item-smallexcerpt">
-          <i>{{ post.years }},</i> {{ post.courseID }}
+          <b>{{ post.courseID }},</b> <i>{{ post.years }}</i> 
           {% if post.excerpt and site.read_more != 'enabled' %}
             {{ post.excerpt | markdownify }}
           {% elsif post.excerpt and site.read_more == 'enabled' %}
