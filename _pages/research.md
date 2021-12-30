@@ -1,17 +1,22 @@
 ---
 layout: splash
-title: "Research in the Meldrumlab"
 permalink: /research/
 author: meldrumlab
-author_profile: false
+author_profile: true
+redirect_from:
+  - /
+  - /about/
+  - /about.html
 
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: colorfulflasks.jpg
+  overlay_color: "#FFFFFF"
+  overlay_filter: "0"
+  overlay_image: meldrumlab_logo_landscape.png
   caption:
-  excerpt: "Student-oriented research with single-sided NMR"
 
+intro:
+  - excerpt: "Our student-driven research group studies physical and chemical properties of various materials. We primarily use single-sided NMR methods on a range of materials, including industrial materials and objects of cultural interest."
+  -
 feature_row:
   - image_path: rubber_on_MOUSE.png
     alt: "Rubber sample on an NMR-MOUSE"
@@ -31,5 +36,7 @@ feature_row:
 ---
 
 {% include base_path %}
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}

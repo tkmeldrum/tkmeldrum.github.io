@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
 
   - title: "Group"
     url: /group/
@@ -28,8 +26,8 @@ main:
   - title: "About Tyler"
     url: /PI/
 
-  - title: "Resources"
-    url: /resources/
+  # - title: "Resources"
+  #   url: /resources/
 
   # - title: "Useful"
   #   url: /links/

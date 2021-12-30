@@ -20,6 +20,6 @@ At the end of this course, as active participants in the learning and communicat
  - **Develop intellectual maturity.** Students should accept responsibility for their own learning and be aware of what they do and do not understand about physical chemistry. Students should learn to ask specific questions, and to identify and articulate the parts of a problem that they found difficult so they can take appropriate action. Finally, students should regularly check their understanding against these learning goals and seek appropriate help to fill in gaps.
 
 
-[Spring 2021 syllabus [pdf]](/files/CHEM301_F2021_Syllabus.pdf){:target="_blank"}
+[Spring 2021 syllabus (pdf)](/files/CHEM301_F2021_Syllabus.pdf)
 
-[Equations sheet [pdf]](/files/CHEM301eqsheet.pdf){:target="_blank"}
+[Equations sheet (pdf)](/files/CHEM301eqsheet.pdf)

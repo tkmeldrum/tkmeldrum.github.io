@@ -13,18 +13,6 @@
 {% endif %}
 
 <div class="group__item">
-<!-- <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-  {% if include.type == "grid" and teaser %}
-    <div class="archive__item-teaser">
-      <img src=
-        {% if teaser contains "://" %}
-          "{{ teaser }}"
-        {% else %}
-          "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-        {% endif %}
-        alt="">
-    </div>
-  {% endif %} -->
 
   {% if post.image %}
       <img class="group__item-image" src="{{ post.image }}" alt="{{ post.name }}">
@@ -69,7 +57,4 @@
       <p>Current projects: {{ post.rightnow }}</p>
     {% endif %}
   </div>
-
-
-<!-- </article> -->
 </div>

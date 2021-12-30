@@ -10,10 +10,10 @@ redirect_from:
 
 header:
   overlay_color: "#FFFFFF"
-  overlay_filter: "0.65"
+  overlay_filter: "0.85"
   overlay_image: meldrumlab_logo_landscape.png
   caption:
-  excerpt: ""
+  excerpt:
 ---
 
 {% include base_path %}

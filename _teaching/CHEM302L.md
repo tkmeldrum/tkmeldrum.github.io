@@ -22,4 +22,4 @@ At the end of this course, as active participants in the learning and communicat
  - Compose written reports that effectively describe and evaluate experimental findings.
  - Create a coherent product that accurately and responsibly communicates your conclusions.
 
-[Spring 2020 syllabus [pdf]](/files/CHEM302L_S2020_Syllabus.pdf){:target="_blank"}
+[Spring 2020 syllabus (pdf)](/files/CHEM302L_S2020_Syllabus.pdf)
