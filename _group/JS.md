@@ -1,5 +1,6 @@
 ---
-name: "Jacob Simonpietri"
+firstname: "Jacob"
+lastname: "Simonpietri"
 collection: group
 degreedate: "Chemistry BS, 2024"
 image:

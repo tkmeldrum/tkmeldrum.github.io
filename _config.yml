@@ -11,7 +11,7 @@ title                    : "Meldrumlab"
 title_separator          : "-"
 name                     : &name "Tyler Meldrum"
 description              : &description "Website for the Meldrumlab research group at William & Mary"
-url                      : https://www.meldrumlab.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.meldrumlab.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tkmeldrum/tkmeldrum.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -196,6 +196,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   group:
+    output: true
+    permalink: /:collection/:path/
+  outreach:
     output: true
     permalink: /:collection/:path/
 

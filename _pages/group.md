@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Meldrumlab People"
+title: "Meldrumlab people"
 permalink: /group/
 author: meldrumlab
 author_profile: true
@@ -8,12 +8,16 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.group %}
+{% assign sortedGroup = site.group | sort: 'lastname' %}
+
+{% for post in sortedGroup %}
   {% include group-single.html %}
 {% endfor %}
 
-
+---
 ## [Group alumni](/pages/alumni)
+
+---
 
 ## Collaborators
 We are fortunate to work on interdisciplinary projects with fantastic collaborators. Here are a few of our science friends:

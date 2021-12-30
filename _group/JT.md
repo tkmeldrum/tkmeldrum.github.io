@@ -1,5 +1,6 @@
 ---
-name: "Joyce Tate"
+firstname: "Joyce"
+lastname: "Tate"
 collection: group
 degreedate: "Chemistry BS, 2023"
 image: "/group/JT.jpg"

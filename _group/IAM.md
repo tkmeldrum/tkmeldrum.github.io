@@ -1,5 +1,6 @@
 ---
-name: "Ignat (Iggy) Miagkov"
+firstname: "Ignat (Iggy)"
+lastname: "Miagkov"
 collection: group
 degreedate: "Chemistry and Computer Science BS, 2022"
 image: "/group/IAM.jpg"

@@ -1,5 +1,6 @@
 ---
-name: "Sam Rubin"
+firstname: "Sam"
+lastname: "Rubin"
 collection: group
 degreedate: "Chemical Physics BS, 2024"
 image: "/group/SJR.jpg"

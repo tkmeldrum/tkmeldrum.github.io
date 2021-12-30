@@ -1,5 +1,6 @@
 ---
-name: "Caroline Thompson"
+firstname: "Caroline"
+lastname: "Thompson"
 collection: group
 degreedate: "Neuroscience BS, 2023"
 image: "/group/CST.jpg"

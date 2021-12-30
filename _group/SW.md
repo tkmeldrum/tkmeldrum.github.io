@@ -1,5 +1,6 @@
 ---
-name: "Savannah Wood"
+firstname: "Savannah"
+lastname: "Wood"
 collection: group
 degreedate: "Kinesiology and Health Sciences BS (Chemistry minor), 2024"
 image: "/group/SW.jpg"

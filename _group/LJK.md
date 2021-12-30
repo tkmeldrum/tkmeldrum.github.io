@@ -1,5 +1,6 @@
 ---
-name: "Lyndi Kiple"
+firstname: "Lyndi"
+lastname: "Kiple"
 collection: group
 personalurl: "https://www.sites.google.com/site/chemconservator"
 degreedate: "Chemistry MS, 2023"

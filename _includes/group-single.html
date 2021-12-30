@@ -30,17 +30,17 @@
       <img class="group__item-image" src="{{ post.image }}" alt="{{ post.name }}">
   {% endif %}
 
-  <h2 class="group__item-title">
-    {% if post.personalurl %}
-      <a href="{{ post.personalurl }}" rel="permalink">{{ post.name }}</a>
-    {% else %}
-      {{ post.name }}
-    {% endif %}
-  </h2>
-
   <h3 class="group__item-title">
-    {{ post.degreedate }}
+    {% if post.personalurl %}
+      <a href="{{ post.personalurl }}" rel="permalink">{{ post.firstname }} {{ post.lastname }}</a>
+    {% else %}
+      {{ post.firstname }} {{ post.lastname }}
+    {% endif %}
   </h3>
+
+  <h4 class="group__item-title">
+    {{ post.degreedate }}
+  </h4>
 
   <div class="group__item-excerpt">
     <p><i>{{ post.hometown }}</i></p>

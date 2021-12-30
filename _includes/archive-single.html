@@ -30,64 +30,69 @@
       <img class="archive__item-image" src="{{ post.image }}" alt="{{ post.alttext }}">
     {% endif %}
 
-    <h3 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title" itemprop="headline">
       {% if post.collection == 'publications' %}
         {% if post.paperurl %}
           {{ post.pubind }}. <a href="{{ post.paperurl }}" rel="permalink">{{ title }}</a>
         {% else %}
           {{ post.pubind }}. {{ title }}
         {% endif %}
+
       {% elsif post.collection == 'funding' %}
         {% if post.fundingurl %}
           <a href="{{ post.fundingurl }}" rel="permalink">{{ title }}</a>
         {% else %}
           {{ title }}
         {% endif %}
-      {% elsif post.collection == 'teaching' %}
-          {{ title }}
-      {% elsif post.collection == 'news' %}
-          {{ title }}
-      {% endif %}
-    </h3>
 
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+      {% elsif post.collection == 'teaching' or post.collection == 'news' or post.collection == 'outreach' %}
+          {{ title }}
+
+      {% endif %}
+    </h2>
+
+  <div class="archive__item-excerpt">
+    {% if post.collection == 'teaching' %}
+      <p> <i>{{ post.years }},</i> {{ post.courseID }}</p>
+
+
+    {% elsif post.collection == 'outreach' %}
+
+      <p class="page__date"> <i><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %Y" }}</time></i></p>
+
+      {% if post.read %}
+        <h4 class="archive__item-title">Read {{ post.read }}</h4>
+      {% endif %}
+
+      {% if post.craft %}
+        <h4 class="archive__item-title">Craft: {{ post.craft }}</h4>
+      {% endif %}
+
+
+    {% elsif post.collection == 'funding' %}
+      {% if post.enddate %}
+        <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong> <i><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y" }}</time>–<time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.enddate | default: "1900-01-01" | date: "%Y" }}</time></i></p>
+      {% else %}
+        <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong> <i><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y" }}</time></i></p>
+      {% endif %}
+
+
+    {% elsif post.date and post.collection != "publications" %}
+      <p class="page__date"> <i><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></i></p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> <i>{{ post.years }},</i> {{ post.courseID }}</p>
-        {% elsif post.collection == 'publications' %}
-          <!-- <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
-        {% elsif post.collection == 'funding' %}
-          {% if post.enddate %}
-            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong> <i><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y" }}</time>–<time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.enddate | default: "1900-01-01" | date: "%Y" }}</time></i></p>
-          {% else %}
-            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong> <i><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y" }}</time></i></p>
-          {% endif %}
-          <!-- {% if post.fundinglogo %}
-            <img src="{{ post.fundinglogo }}" width="15%">
-          {% endif %} -->
-        {% elsif post.date %}
-          <p class="page__date"> <i><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></i></p>
-        {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+      <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    <!-- {% if post.citation and post.paperurl %}
-      <p>{{ post.citation }} <a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
-    {% elsif post.citation %}
-      <p>{{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} ">here</a></p>
-    {% endif %} -->
 
-    {% if post.citation  %}
+    {% if post.citation %}
       <p>{{ post.citation }} </p>
     {% endif %}
 
+    </div>
   </article>
 </div>

@@ -1,5 +1,6 @@
 ---
-name: "Gillian Zavaglia"
+firstname: "Gillian"
+lastname: "Zavaglia"
 collection: group
 degreedate: "Chemistry BS, 2022"
 image:
