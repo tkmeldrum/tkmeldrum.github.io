@@ -1,6 +1,7 @@
 ---
 title: "Physical Chemistry Lab"
 collection: teaching
+layout: archive
 courseID: "CHEM 302L"
 permalink: /teaching/CHEM103
 years: "2014–2020"

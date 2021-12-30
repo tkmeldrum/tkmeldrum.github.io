@@ -1,5 +1,6 @@
 ---
 title: "General Chemistry I"
+layout: archive
 collection: teaching
 courseID: "CHEM 103"
 permalink: /teaching/CHEM103

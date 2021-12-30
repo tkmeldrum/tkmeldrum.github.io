@@ -1,6 +1,7 @@
 ---
 title: "Physical Chemistry: Thermodynamics, Statistical Mechanics, and Kinetics"
 collection: teaching
+layout: archive
 courseID: "CHEM 302"
 permalink: /teaching/CHEM302
 years: "2017–2020"

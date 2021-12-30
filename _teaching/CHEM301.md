@@ -1,5 +1,6 @@
 ---
 title: "Physical Chemistry: Quantum Mechanics and Spectroscopy"
+layout: archive
 collection: teaching
 courseID: "CHEM 301"
 permalink: /teaching/CHEM301
