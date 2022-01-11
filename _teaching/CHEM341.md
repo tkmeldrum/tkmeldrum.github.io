@@ -4,7 +4,7 @@ collection: teaching
 layout: archive
 courseID: "CHEM 341"
 permalink: /teaching/CHEM341
-years: "2015–2017, 2019"
+years: "2015–2017, 2019, 2022"
 date: 2014-01-02
 ---
 
