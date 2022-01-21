@@ -29,3 +29,4 @@ author_profile: true
 - John Cacciatore (2021)
 - Kayla Copeman (M.S. 2021 [thesis](http://scholarworks.wm.edu/etd/1627047854))
 - Jack Ballenger (2021); prospective medical student
+- Caroline Thompson (2022)
