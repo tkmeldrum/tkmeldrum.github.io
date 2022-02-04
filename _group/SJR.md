@@ -8,7 +8,7 @@ hometown: "Baltimore, Maryland"
 icecream: "Coffee"
 coffee:
 character: "Schmidt from <i>New Girl</i>"
-spiritanimal:
+animal:
 job: "something in the medical field"
 bestpart: "The best part of the Meldrum Lab is the people!!"
 rightnow: "In lab, I’m helping with data collection now and joining a project next semester."

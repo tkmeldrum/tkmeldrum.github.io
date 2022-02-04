@@ -8,7 +8,7 @@ hometown:
 coffee:
 icecream:
 character:
-spiritanimal:
+animal:
 job:
 bestpart:
 rightnow:

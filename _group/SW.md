@@ -7,7 +7,7 @@ image: "/group/SW.jpg"
 hometown: "Powhatan, Virginia"
 icecream: "Anything chocolate 😃"
 coffee:
-spiritanimal: "sea otter"
+animal: "sea otter"
 character:
 job: "Obstetric Anesthesiologist"
 bestpart: "The best part about the group is the community! And of course, pie night at the Meldrums’ house!!"
