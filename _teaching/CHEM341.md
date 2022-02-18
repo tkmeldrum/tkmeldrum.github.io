@@ -11,4 +11,4 @@ date: 2014-01-02
 *Course Description:*
 This course explores principles of physical chemistry applied directly to biological systems. Topics include structure of nucleic acids and proteins, thermodynamics, statistical mechanics, quantum mechanics, spectroscopy, and kinetics, as well as many techniques used in biophysical research. Please note: this course does NOT count towards the chemistry major; however, it does count towards the chemistry and biochemistry minors.
 
-[Fall 2019 syllabus (pdf)](/files/CHEM341_F2019_Syllabus.pdf)
+[Spring 2022 syllabus (pdf)](/files/CHEM341_S2022_Syllabus.pdf)
