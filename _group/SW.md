@@ -2,7 +2,7 @@
 firstname: "Savannah"
 lastname: "Wood"
 collection: group
-degreedate: "Kinesiology and Health Sciences BS (Chemistry minor), 2024"
+degreedate: "Chemistry (Marine Science minor), 2024"
 image: "/group/SW.jpg"
 hometown: "Powhatan, Virginia"
 icecream: "Anything chocolate 😃"
