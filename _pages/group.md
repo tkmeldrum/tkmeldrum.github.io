@@ -4,9 +4,8 @@ title: "Meldrumlab people"
 permalink: /group/
 author: meldrumlab
 author_profile: true
-header:
-  image: /images/group2022.jpg
 ---
+<img src="images/group2022.JPG" alt="The Meldrumlab Group, Spring 2022">
 
 {% include base_path %}
 
