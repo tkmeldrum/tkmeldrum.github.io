@@ -4,6 +4,7 @@ title: "Meldrumlab people"
 permalink: /group/
 author: meldrumlab
 author_profile: true
+image: /images/group2022.jpg
 ---
 
 {% include base_path %}
