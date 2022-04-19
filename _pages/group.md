@@ -5,7 +5,7 @@ permalink: /group/
 author: meldrumlab
 author_profile: true
 ---
-<img src="images/group2022.JPG" alt="The Meldrumlab Group, Spring 2022">
+<img src="/images/group2022.JPG" width="600" alt="The Meldrumlab Group, Spring 2022">
 
 {% include base_path %}
 
