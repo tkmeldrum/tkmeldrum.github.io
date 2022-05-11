@@ -11,5 +11,5 @@ character: "Schmidt from <i>New Girl</i>"
 animal:
 job: "something in the medical field"
 bestpart: "The best part of the Meldrum Lab is the people!!"
-rightnow: "In lab, I’m helping with data collection now and joining a project next semester."
+rightnow: "I am working on conductive surfaces doing microscopy to understand the physical surfaces of our samples."
 ---
