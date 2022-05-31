@@ -26,7 +26,8 @@ author_profile: true
 - Ruth Beaver (2020 [honors thesis](http://scholarworks.wm.edu/honorstheses/1449)); graduate student at Purdue University
 - Elliot Kim (2020)
 - John Smailys (2020); graduate student at W&M
-- John Cacciatore (2021)
+- John Cacciatore (2021); MD student at Miami
 - Kayla Copeman (M.S. 2021 [thesis](http://scholarworks.wm.edu/etd/1627047854))
 - Jack Ballenger (2021); prospective medical student
+- Gillian Zavaglia (2022); pharmacy student at UNC 
 - Caroline Thompson (2023)
