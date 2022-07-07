@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Meldrumlab people"
+title: "Meldrum Lab people"
 permalink: /group/
 author: meldrumlab
 author_profile: true

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Meldrumlab Alumni"
+title: "Meldrum Lab Alumni"
 permalink: /pages/alumni
 author: meldrumlab
 author_profile: true
@@ -29,5 +29,5 @@ author_profile: true
 - John Cacciatore (2021); MD student at Miami
 - Kayla Copeman (M.S. 2021 [thesis](http://scholarworks.wm.edu/etd/1627047854))
 - Jack Ballenger (2021); prospective medical student
-- Gillian Zavaglia (2022); pharmacy student at UNC 
+- Gillian Zavaglia (2022); pharmacy student at UNC
 - Caroline Thompson (2023)

@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Meldrumlab Research Group at William & Mary"
+title: "The Meldrum Lab Research Group at William & Mary"
 author: meldrumlab
 author_profile: true
 redirect_from:
