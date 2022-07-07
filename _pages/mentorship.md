@@ -12,15 +12,15 @@ The Meldrum Lab operates in harmony with [William & Mary's Vision, Mission, and 
 <img src="{{ site.baseurl }}/images/mentorship/mentoringSam.JPG" alt="Tyler mentoring an undergraduate student at a campus poster session">
 
 Tyler prioritizes mentoring students by:
-- maintaining a regular presence in lab and actively working on projects with students
+- regularly and actively working with students on projects
 - pairing more- and less-experienced students on shared projects
 - encouraging student presentations at group meetings and at internal and external conferences
 - inviting students to participate in conference calls with collaborators
-- seeking opportunities for students to pursue external research while W&M students
+- finding opportunities for students to pursue external research while W&M students
 - soliciting student input regarding lab culture, inclusivity, and work-life balance
-- continually reassessing and improving his approaches to student mentorship
+- continually reassessing and improving his approach to student mentorship
 
-Students who have been in the Meldrum Lab have collectively achieved the following:
+Meldrum Lab students have collectively achieved:
 - 25 undergraduate degrees and four M.S. degrees
 - Ten student co-authors on [peer-reviewed publications](/publications)
 - Six undergraduate honors theses

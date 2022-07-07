@@ -9,6 +9,9 @@ main:
   - title: "Mentorship"
     url: /mentorship/
 
+  - title: "Outreach"
+    url: /outreach/
+
   - title: "Publications"
     url: /publications/
 
@@ -17,9 +20,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-
-  - title: "Outreach"
-    url: /outreach/
 
   - title: "About Tyler"
     url: /PI/
