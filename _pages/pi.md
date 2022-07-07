@@ -13,4 +13,4 @@ Raised in colorful Colorado, Tyler has been a member of the Department of Chemis
 
 <img src="{{ site.baseurl }}/images/about/science girls.jpg" alt="Children in lab, safety first">
 
-[Tyler's CV, January 2022 (pdf)](/files/CV_Jan2022.pdf)
+[Tyler's CV, June 2022 (pdf)](/files/CV_June2022.pdf)
