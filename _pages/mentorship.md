@@ -25,5 +25,6 @@ Students who have been in the Meldrum Lab have collectively achieved the followi
 - Ten student co-authors on [peer-reviewed publications](/publications)
 - Six undergraduate honors theses
 - Nine admissions to graduate programs and six admissions to health (M.D. and pharmacy) programs
+- Careers in industry, government, and military, as well as other non-chemistry-related fellowships, awards, and jobs
 - Over 160 credit hours of undergraduate research
 - Over 25 full-time summers of undergraduate research
