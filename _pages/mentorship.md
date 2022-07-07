@@ -22,7 +22,7 @@ Tyler emphasizes mentoring students by:
 
 Students who have been in the Meldrum Lab have collectively achieved the following:
 - 25 undergraduate degrees and four M.S. degrees
-- Ten student co-authors on peer-reviewed
+- Ten student co-authors on [peer-reviewed publications](/publications)
 - Six undergraduate honors theses
 - Over 160 credit hours of undergraduate research
 - Over 25 full-time summers of undergraduate research

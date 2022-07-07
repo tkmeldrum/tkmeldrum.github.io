@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "News"
-permalink: /news/
+permalink: /pages/news/
 author: meldrumlab
 author_profile: true
 ---

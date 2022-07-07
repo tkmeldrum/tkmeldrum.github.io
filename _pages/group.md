@@ -18,6 +18,7 @@ author_profile: true
 {% endfor %}
 
 ---
+## [Recent group news](/pages/news)
 ## [Group alumni](/pages/alumni)
 
 ---
