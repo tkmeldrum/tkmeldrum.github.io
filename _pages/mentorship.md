@@ -11,7 +11,7 @@ The Meldrum Lab operates in harmony with [William & Mary's Vision, Mission, and 
 
 <img src="{{ site.baseurl }}/images/mentorship/mentoringSam.JPG" alt="Tyler mentoring an undergraduate student at a campus poster session">
 
-Tyler emphasizes mentoring students by:
+Tyler prioritizes mentoring students by:
 - maintaining a regular presence in lab and actively working on projects with students
 - pairing more- and less-experienced students on shared projects
 - encouraging student presentations at group meetings and at internal and external conferences
@@ -24,5 +24,6 @@ Students who have been in the Meldrum Lab have collectively achieved the followi
 - 25 undergraduate degrees and four M.S. degrees
 - Ten student co-authors on [peer-reviewed publications](/publications)
 - Six undergraduate honors theses
+- Nine admissions to graduate programs and six admissions to health (M.D. and pharmacy) programs
 - Over 160 credit hours of undergraduate research
 - Over 25 full-time summers of undergraduate research
