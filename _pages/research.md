@@ -16,7 +16,6 @@ header:
 
 intro:
   - excerpt: "Our student-driven research group studies physical and chemical properties of various materials. We primarily use single-sided NMR methods on a range of materials, including industrial materials and objects of cultural interest."
-  -
 feature_row:
   - image_path: rubber_on_MOUSE.png
     alt: "Rubber sample on an NMR-MOUSE"

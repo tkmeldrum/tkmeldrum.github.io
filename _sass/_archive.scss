@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 2em;
+  // margin-bottom: 2em;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -27,9 +27,9 @@
   }
 }
 
-.archive__item {
-  margin-bottom: 2em;
-}
+// .archive__item {
+  // margin-bottom: 1em;
+// }
 
 .archive__item-image {
   float: right;
@@ -184,6 +184,8 @@
   .page__meta {
     margin: 0 0 4px;
   }
+
+  margin-bottom: 2em;
 }
 
 
@@ -237,7 +239,7 @@
 
 .feature__wrapper {
   @include clearfix();
-  margin-bottom: 2em;
+  // margin-bottom: 2em;
   border-bottom: 1px solid $border-color;
 }
 
