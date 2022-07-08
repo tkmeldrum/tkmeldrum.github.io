@@ -55,6 +55,7 @@
   margin-top: 0.5em;
   margin-bottom: 0.5em;
   font-family: $sans-serif-narrow;
+  text-align: center;
 
   a + a {
     opacity: 0.5;
@@ -73,6 +74,7 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-5;
+  text-align: center;
 
   & + p {
     text-indent: 0;
