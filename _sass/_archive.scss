@@ -55,7 +55,6 @@
   margin-top: 0.5em;
   margin-bottom: 0.5em;
   font-family: $sans-serif-narrow;
-  text-align: center;
 
   a + a {
     opacity: 0.5;
@@ -74,7 +73,6 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-5;
-  text-align: center;
 
   & + p {
     text-indent: 0;
@@ -244,6 +242,7 @@
 .feature__item {
   margin-bottom: 2em;
   font-size: 1.25rem;
+  text-align: center;
 
   @include breakpoint($small) {
     margin-bottom: 0;
