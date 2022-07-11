@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 2em;
+  // margin-bottom: 2em;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -27,9 +27,9 @@
   }
 }
 
-.archive__item {
-  margin-bottom: 2em;
-}
+// .archive__item {
+  // margin-bottom: 1em;
+// }
 
 .archive__item-image {
   float: right;
@@ -91,8 +91,10 @@
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
+  height: 300px;
   img {
     width: 100%;
+    height: 300px;
   }
 }
 
@@ -182,6 +184,8 @@
   .page__meta {
     margin: 0 0 4px;
   }
+
+  margin-bottom: 2em;
 }
 
 
@@ -235,13 +239,14 @@
 
 .feature__wrapper {
   @include clearfix();
-  margin-bottom: 2em;
+  // margin-bottom: 2em;
   border-bottom: 1px solid $border-color;
 }
 
 .feature__item {
   margin-bottom: 2em;
   font-size: 1.25rem;
+  text-align: center;
 
   @include breakpoint($small) {
     margin-bottom: 0;

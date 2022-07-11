@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Meldrumlab people"
+title: "Current Meldrum Lab people"
 permalink: /group/
 author: meldrumlab
 author_profile: true
@@ -18,6 +18,10 @@ author_profile: true
 {% endfor %}
 
 ---
+Interested in joining the Meldrum Lab? Please reach out to [Tyler](mailto:tkmeldrum@wm.edu) or any group member to learn more. Importantly, you do *not* need to have a background in magnets, materials, or NMR to join and learn with the group.
+
+---
+## [Recent group news](/pages/news)
 ## [Group alumni](/pages/alumni)
 
 ---

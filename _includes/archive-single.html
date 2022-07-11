@@ -63,10 +63,13 @@
       {% if post.permalink %}
         <div class="archive__item-excerpt">
           <b>{{ post.courseID }},</b> <i>{{ post.years }}</i>
+          {% if post.blurb %}
+            <p><i>{{ post.blurb }}</i></p>
+          {% endif %}
         </div>
       {% else %}
         <div class="archive__item-smallexcerpt">
-          <b>{{ post.courseID }},</b> <i>{{ post.years }}</i> 
+          <b>{{ post.courseID }},</b> <i>{{ post.years }}</i>
           {% if post.excerpt and site.read_more != 'enabled' %}
             {{ post.excerpt | markdownify }}
           {% elsif post.excerpt and site.read_more == 'enabled' %}
