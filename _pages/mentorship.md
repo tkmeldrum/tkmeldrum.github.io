@@ -11,6 +11,9 @@ The Meldrum Lab operates in harmony with [William & Mary's Vision, Mission, and 
 
 <img src="{{ site.baseurl }}/images/mentorship/mentoringSam.JPG" alt="Tyler mentoring an undergraduate student at a campus poster session">
 
+One member of the Meldrum lab wrote of Tyler's mentorship:
+*When I came into college, I had this notion of research as unattainable and far above me, and while I was trying to decide on a major between physics and chemistry, I found the Meldrum lab. Tyler welcomed me into his lab and offered me a gradual entrance into research that helped me find time in my schedule and an appreciation for research. Soon, Tyler became my major advisor when I declared a chemistry major. He offered strong advice for my time at William & Mary and for summer internships, helping me land [an external laboratory technician position]. He tailored the tasks in lab to each group member's strengths and allowed each to shine in their own way. He also incorporated weekly lab presentations to both work on our own public speaking skills and to keep the lab group in the loop on all ongoing endeavors. Along with research, Tyler is an engaging professor who I’m thrilled to have as my physical chemistry professor this semester.*
+
 Tyler prioritizes mentoring students by:
 - regularly and actively working with students on projects
 - pairing more- and less-experienced students on shared projects
