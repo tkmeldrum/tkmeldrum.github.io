@@ -5,7 +5,7 @@ collection: group
 degreedate: "Chemistry, 2023"
 image: "/group/AK.png"
 hometown: "Richmond, Virginia"
-icecream: Coffee"
+icecream: "Coffee"
 coffee:
 character: 
 animal: "Ringed seal"
