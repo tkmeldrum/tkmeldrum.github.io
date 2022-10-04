@@ -2,7 +2,7 @@
 firstname: "Shinjer"
 lastname: "Li"
 collection: group
-degreedate: "Chemistry 2025"
+degreedate: "Chemistry, 2025"
 image: "/group/SL.jpg"
 hometown: "Vienna, Virginia"
 icecream: "Strawberry"

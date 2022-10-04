@@ -2,7 +2,7 @@
 firstname: "Tyler"
 lastname: "Lee"
 collection: group
-degreedate: "Chemistry 2023"
+degreedate: "Chemistry, 2023"
 image: "/group/TL.jpg"
 hometown: "Arlington, Virginia"
 icecream: "Cookies & Cream"
