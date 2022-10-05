@@ -18,43 +18,45 @@
       <img class="group__item-image" src="{{ post.image }}" alt="{{ post.name }}">
   {% endif %}
 
-  <h3 class="group__item-title">
-    {% if post.personalurl %}
-      <a href="{{ post.personalurl }}" rel="permalink">{{ post.firstname }} {{ post.lastname }}</a>
-    {% else %}
-      {{ post.firstname }} {{ post.lastname }}
-    {% endif %}
-  </h3>
+  <div class="group__item-content">
+    <h3 class="group__item-title">
+      {% if post.personalurl %}
+        <a href="{{ post.personalurl }}" rel="permalink">{{ post.firstname }} {{ post.lastname }}</a>
+      {% else %}
+        {{ post.firstname }} {{ post.lastname }}
+      {% endif %}
+    </h3>
 
-  <h4 class="group__item-title">
-    {{ post.degreedate }}
-  </h4>
+    <h4 class="group__item-title">
+      {{ post.degreedate }}
+    </h4>
 
-  <div class="group__item-excerpt">
-    <p><i>{{ post.hometown }}</i></p>
+    <div class="group__item-excerpt">
+      <p><i>{{ post.hometown }}</i></p>
 
-    {% if post.coffee %}
-      <p>Coffee order: {{ post.coffee }}</p>
-    {% elsif post.icecream %}
-      <p>Favorite ice cream: {{ post.icecream }}</p>
-    {% endif %}
+      {% if post.coffee %}
+        <p>Coffee order: {{ post.coffee }}</p>
+      {% elsif post.icecream %}
+        <p>Favorite ice cream: {{ post.icecream }}</p>
+      {% endif %}
 
-    {% if post.charater %}
-      <p>Most relatable TV character: {{ post.character }}</p>
-    {% elsif post.animal %}
-      <p>Favorite animal: {{ post.animal }}</p>
-    {% endif %}
+      {% if post.charater %}
+        <p>Most relatable TV character: {{ post.character }}</p>
+      {% elsif post.animal %}
+        <p>Favorite animal: {{ post.animal }}</p>
+      {% endif %}
 
-    {% if post.job %}
-      <p>Dream job: {{ post.job }}</p>
-    {% endif %}
+      {% if post.job %}
+        <p>Dream job: {{ post.job }}</p>
+      {% endif %}
 
-    {% if post.bestpart %}
-      <p>Best part of working in the Meldrum Lab: {{ post.bestpart }}</p>
-    {% endif %}
+      {% if post.bestpart %}
+        <p>Best part of working in the Meldrum Lab: {{ post.bestpart }}</p>
+      {% endif %}
 
-    {% if post.rightnow %}
-      <p>Current projects: {{ post.rightnow }}</p>
-    {% endif %}
+      {% if post.rightnow %}
+        <p>Current projects: {{ post.rightnow }}</p>
+      {% endif %}
+    </div>
   </div>
 </div>
