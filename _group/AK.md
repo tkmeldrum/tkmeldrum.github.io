@@ -3,7 +3,7 @@ firstname: "Andrew"
 lastname: "Kossan"
 collection: group
 degreedate: "Chemistry, 2023"
-image: "/group/AK.png"
+image: "/group/AK.jpg"
 hometown: "Richmond, Virginia"
 icecream: "Coffee"
 coffee:
