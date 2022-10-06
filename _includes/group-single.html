@@ -19,21 +19,23 @@
   {% endif %}
 
   <div class="group__item-content">
-    <h3 class="group__item-title">
+    <div class="group__item-title">
       {% if post.personalurl %}
         <a href="{{ post.personalurl }}" rel="permalink">{{ post.firstname }} {{ post.lastname }}</a>
       {% else %}
         {{ post.firstname }} {{ post.lastname }}
       {% endif %}
-    </h3>
+    </div>
 
-    <h4 class="group__item-title">
+    <div class="group__item-subtitle1">
       {{ post.degreedate }}
-    </h4>
+    </div>
+
+    <div class="group__item-subtitle2">
+      {{ post.hometown }}
+    </div>
 
     <div class="group__item-excerpt">
-      <p><i>{{ post.hometown }}</i></p>
-
       {% if post.coffee %}
         <p>Coffee order: {{ post.coffee }}</p>
       {% elsif post.icecream %}

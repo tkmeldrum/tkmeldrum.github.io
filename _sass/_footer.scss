@@ -26,12 +26,12 @@
   border-top: 1px solid $light-gray;
 
   footer {
-    @include clearfix;
+    /*@include clearfix;*/
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1em;
+    /*margin-top: 1em;
     max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 0 1em 2em;*/
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -56,14 +56,16 @@
 }
 
 .page__footer-copyright {
+  text-align: center;
   font-family: $global-font-family;
   font-size: $type-size-7;
 }
 
 .page__footer-follow {
+  display: flex;
+  justify-content: center;
+
   ul {
-    margin: 0;
-    padding: 0;
     list-style-type: none;
   }
 
