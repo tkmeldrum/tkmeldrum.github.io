@@ -4,7 +4,7 @@ lastname: "Simonpietri"
 collection: group
 degreedate: "Chemistry BS, 2024"
 image: "/group/JS.jpg"
-hometown:
+hometown: "Richmond, Virginia"
 coffee:
 icecream: "Chocolate"
 character: "Ben Wyatt from Parks and Rec"
