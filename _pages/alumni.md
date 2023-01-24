@@ -31,3 +31,4 @@ author_profile: true
 - Jack Ballenger (2021); prospective medical student
 - Gillian Zavaglia (2022); pharmacy student at UNC
 - Caroline Thompson (2023)
+- Ignat (Iggy) Miagkov (2022); Bloomberg analyst
