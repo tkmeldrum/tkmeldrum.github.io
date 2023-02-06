@@ -34,3 +34,4 @@ author_profile: true
 - Ignat (Iggy) Miagkov (2022); Bloomberg analyst
 - Catherine Choo (2024)
 - Savannah Wood (2024)
+- Leo Guo (2025)
