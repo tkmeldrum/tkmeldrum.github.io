@@ -28,7 +28,9 @@ author_profile: true
 - John Smailys (2020); graduate student at W&M
 - John Cacciatore (2021); MD student at Miami
 - Kayla Copeman (M.S. 2021 [thesis](http://scholarworks.wm.edu/etd/1627047854))
-- Jack Ballenger (2021); prospective medical student
+- Jack Ballenger (2021); UVa Medical Student
 - Gillian Zavaglia (2022); pharmacy student at UNC
 - Caroline Thompson (2023)
 - Ignat (Iggy) Miagkov (2022); Bloomberg analyst
+- Catherine Choo (2024)
+- Savannah Wood (2024)
