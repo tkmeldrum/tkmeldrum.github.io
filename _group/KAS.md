@@ -2,7 +2,7 @@
 firstname: "Kelly Ann"
 lastname: "Sutterfield"
 collection: group
-degreedate: "Chemistry BS, 2025"
+degreedate: "Chemistry BS, 2026"
 image: "/group/KAS.jpg"
 hometown: "Euharlee, Georgia"
 coffee: "Vanilla almond milk latte with an extra shot"
