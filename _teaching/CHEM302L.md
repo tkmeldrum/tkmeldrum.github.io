@@ -4,7 +4,7 @@ collection: teaching
 layout: archive
 courseID: "CHEM 302L"
 permalink: /teaching/CHEM302L
-years: "2014–2020, 2022"
+years: "2014–2020, 2022, 2023"
 date: 2014-01-02
 ---
 
