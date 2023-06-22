@@ -32,6 +32,10 @@ author_profile: true
 - Gillian Zavaglia (2022); pharmacy student at UNC
 - Caroline Thompson (2023)
 - Ignat (Iggy) Miagkov (2022); Bloomberg analyst
+- Lyndi Kiple (M.S. 2023); conservation scientist at the Mariners' Museum (Newport News, VA)
+- Joyce Tate (2023)
+- Andrew Kossan (2023)
+- Tyler Lee (2023)
 - Catherine Choo (2024)
 - Savannah Wood (2024)
 - Leo Guo (2025)
