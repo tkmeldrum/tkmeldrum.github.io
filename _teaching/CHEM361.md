@@ -4,7 +4,7 @@ collection: teaching
 layout: archive
 courseID: "CHEM 361"
 permalink: /teaching/CHEM361
-years: "2023"
+years: "2023, 2024"
 date: 2022-03-14
 blurb: "A three-week study abroad course in Germany for STEM students. This course will be an introduction to biomolecular imaging with emphasis on NMR and MRI."
 ---

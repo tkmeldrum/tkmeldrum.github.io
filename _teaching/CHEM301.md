@@ -4,7 +4,7 @@ layout: archive
 collection: teaching
 courseID: "CHEM 301"
 permalink: /teaching/CHEM301
-years: "2021, 2022"
+years: "2021–2023"
 date: 2014-01-04
 ---
 
