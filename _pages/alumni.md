@@ -38,4 +38,6 @@ author_profile: true
 - Tyler Lee (2023)
 - Catherine Choo (2024)
 - Savannah Wood (2024)
+- Ethan Van Valkenburgh (2024)
 - Leo Guo (2025)
+
