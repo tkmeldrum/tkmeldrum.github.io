@@ -6,6 +6,9 @@ main:
   - title: "Group"
     url: /group/
 
+  - title: "News"
+    url: /news/
+
   - title: "Mentorship"
     url: /mentorship/
 
