@@ -24,7 +24,7 @@ author_profile: true
 - Madeline Brass (2019 [honors thesis](http://scholarworks.wm.edu/honorstheses/1426)); software engineer (Richmond, VA)
 - Anna Tsutsui (2019 [honors thesis](http://scholarworks.wm.edu/honorstheses/1324)); nurse (DC-Baltimore Area)
 - Ruth Beaver (2020 [honors thesis](http://scholarworks.wm.edu/honorstheses/1449)); graduate student at Purdue University
-- Elliot Kim (2020); 
+- Elliot Kim (2020)
 - John Smailys (2020)
 - John Cacciatore (2021); MD student at Miami
 - Kayla Copeman (M.S. 2021 [thesis](http://scholarworks.wm.edu/etd/1627047854))
