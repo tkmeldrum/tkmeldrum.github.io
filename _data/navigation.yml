@@ -7,7 +7,7 @@ main:
     url: /group/
 
   - title: "News"
-    url: /news/
+    url: /pages/news/
 
   - title: "Mentorship"
     url: /mentorship/
