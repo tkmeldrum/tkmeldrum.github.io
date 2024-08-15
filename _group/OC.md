@@ -2,7 +2,7 @@
 firstname: "Olivia"
 lastname: "Cassara"
 collection: group
-degreedate: "Economics, 2025"
+degreedate: "Chemistry & Economics, 2025"
 image: "/group/OC.jpg"
 hometown: "Arvada, Colorado"
 icecream: 
