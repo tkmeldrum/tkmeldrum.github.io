@@ -6,7 +6,7 @@ author: meldrumlab
 author_profile: true
 ---
 
-<img src="{{ site.baseurl }}/group/Group Feb 2024.JPG" alt="Group, Spring 2024">
+<img src="{{ site.baseurl }}/group/group2024.jpg" alt="Group, Spring 2024">
 
 
 {% include base_path %}
