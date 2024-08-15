@@ -4,7 +4,7 @@ lastname: "Choi"
 collection: group
 degreedate: "Chemistry, Fall 2024"
 image: "/group/NC.jpg"
-hometown: "Falls Church, VA"
+hometown: "Falls Church, Virginia"
 icecream: "Cotton Candy"
 coffee:
 character: 
