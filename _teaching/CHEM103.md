@@ -4,7 +4,7 @@ layout: archive
 collection: teaching
 courseID: "CHEM 103"
 permalink: /teaching/CHEM103
-years: "2013–2015"
+years: "2013–2015, 2024"
 date: 2014-01-01
 ---
 
