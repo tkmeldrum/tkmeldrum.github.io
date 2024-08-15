@@ -1,6 +1,6 @@
 ---
-firstname: "Aidan"
-lastname: "Delpino"
+firstname: "Shalom"
+lastname: "Akolatse"
 collection: group
 degreedate: 
 image: 
