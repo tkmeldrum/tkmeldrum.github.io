@@ -10,6 +10,6 @@ coffee: "Large iced coffee"
 character: 
 animal: "Otter"
 job: "Small town bakery owner"
-bestpart: "Everyone is really welcoming and helpful"
-rightnow: "Getting used to lab and learning about the different projects."
+bestpart: "The people are all really interesting and helpful, and it is great to learn from them!"
+rightnow: "Working on implementing dynamic nuclear polarization (DNP) on single-sided NMR"
 ---
