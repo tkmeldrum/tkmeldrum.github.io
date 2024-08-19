@@ -40,4 +40,7 @@ author_profile: true
 - Savannah Wood (2024)
 - Ethan Van Valkenburgh (2024)
 - Leo Guo (2025)
-
+- Thomas Howard (2024)
+- Sam Rubin (2024, Ph.D. Student at UC Berkeley/UCSF Bioengineering)
+- Jacob Simonpietri (2024, Ph.D. student at CU Boulder)
+- Ian Cook (2025)
