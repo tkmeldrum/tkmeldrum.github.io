@@ -15,7 +15,12 @@ header:
   caption:
 
 intro:
-  - excerpt: "Our student-driven research group studies physical and chemical properties of various materials. We primarily use single-sided NMR methods on a range of materials, including industrial materials and objects of cultural interest."
+  - excerpt: |
+      <div style="background:#fff3cd;border:1px solid #ffeeba;padding:.6rem 1rem;text-align:center;font:14px/1.3 system-ui; margin:0 0 1rem;">
+      <strong>Archived:</strong> This is a snapshot of the previous site.
+      Visit the current site at <a href="https://meldrumlab.org">meldrumlab.org</a>.
+      </div>
+      "Our student-driven research group studies physical and chemical properties of various materials. We primarily use single-sided NMR methods on a range of materials, including industrial materials and objects of cultural interest."
 feature_row:
   - image_path: rubber_on_MOUSE.png
     alt: "Rubber sample on an NMR-MOUSE"
